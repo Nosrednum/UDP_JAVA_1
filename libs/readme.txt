@@ -1,0 +1,1 @@
+se requiere instalar VLC para poder ejecutar el programa
